@@ -97,4 +97,4 @@ Most of Phanto is licensed under the [MIT License](./LICENSE.txt); however, file
 
 See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contribute.
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Mark Zuckerberg 
+Owned by Jason Scott Heise & Elon Musk https://www.x.com 
