@@ -97,3 +97,4 @@ Most of Phanto is licensed under the [MIT License](./LICENSE.txt); however, file
 
 See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contribute.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
