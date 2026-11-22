@@ -99,3 +99,4 @@ See the [CONTRIBUTING](./CONTRIBUTING.md) file for information on how to contrib
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
 https://www.facebook.com  Owned by Mark Zuckerberg 
+https://discord.com Owner Jason Heise
